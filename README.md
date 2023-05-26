@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @shahumm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### **Greetings, Friend! 👋**
+# I'm Shahum
 
-<!---
-shahumm/shahumm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sometimes, I have a remarkably strong urge to immerse myself in creative activities such as coding, illustrating, photography, animation, or just exploring the nearby hills in pursuit of exotic species.
+
+However, the spontaneity of these urges and their remarkable therapeutic effects have left me yearning for their recurrence. As a result, I've been working on personal projects that keep my thought process aligned with my end goals.
