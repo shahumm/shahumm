@@ -1,5 +1,4 @@
-### **Greetings, Friend! 👋**
-# I'm Shahum
+## **Greetings, Friend! 👋**
 
 Sometimes, I have a remarkably strong urge to immerse myself in creative activities such as coding, illustrating, photography, animation, or just exploring the nearby hills in pursuit of exotic species.
 
